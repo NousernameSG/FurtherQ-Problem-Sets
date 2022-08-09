@@ -36,9 +36,9 @@
   <p align="center">
     An awesome README template to jumpstart your projects!
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/NousernameSG/FurtherQ-Problem-Sets/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/NousernameSG/FurtherQ-Problem-Sets/issues">Request Feature</a>
   </p>
 </div>
 
