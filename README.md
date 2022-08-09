@@ -20,6 +20,7 @@
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
+[![Downloads][downloads-shield]][downloads-url]
 [![CC BY 4.0][license-shield]][license-url]
 
 
@@ -128,12 +129,8 @@ Project Link: [https://github.com/NousernameSG/FurtherQ-Problem-Sets](https://gi
 Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
 
 * [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
+* [Image Shields List](https://github.com/Ileriayo/markdown-badges)
 * [Image Shields](https://shields.io)
-* [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -148,10 +145,11 @@ Use this space to list resources you find helpful and would like to give credit 
 [forks-url]: https://github.com/NousernameSG/FurtherQ-Problem-Sets/network/members
 [stars-shield]: https://img.shields.io/github/stars/NousernameSG?affiliations=OWNER%2CCOLLABORATOR
 [stars-url]: https://github.com/NousernameSG/FurtherQ-Problem-Sets/stargazers
+[downloads-shield]: https://img.shields.io/github/downloads/NousernameSG/FurtherQ-Problem-Sets/total
+[downloads-url]: https://github.com/NousernameSG/FurtherQ-Problem-Sets/releases
 [license-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 [license-url]: https://github.com/NousernameSG/FurtherQ-Problem-Sets/LICENSE/
 [license-webpage]: http://creativecommons.org/licenses/by/4.0/
 [license-mark]: https://i.creativecommons.org/l/by/4.0/88x31.png
-[product-screenshot]: images/screenshot.png
 [LaTeX-Shield]: https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white
 [LaTeX-url]: https://www.latex-project.org/
