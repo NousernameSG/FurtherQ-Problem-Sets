@@ -1,0 +1,96 @@
+\textbf{\hypertarget{P4}{[\,Suggested Time: 23 mins \textbar \, Total Marks: 15 \textbar \, Intermediate\,]}}\\
+    \textit{Find all the angles between 0 to 2\(\pi\) inclusive which satisfies}
+    \begin{equation*}
+    \displaystyle\left(\sqrt{3}\tan{(\pi\theta)}+2\right)^{\displaystyle\frac{1}{\sqrt{3}}\sin{(e\theta)}+\cos{(e\theta)}-1}=1
+    \end{equation*}
+    \textit{\textbf{Leave your answers in exact values.}} \qnmark{15}\\
+
+%%%%%%%%%%%%%%%%%%
+%%%%%Solution%%%%%
+%%%%%%%%%%%%%%%%%%
+
+%\newpage \ \newpage
+
+%\begin{comment}
+
+%%%%%Ranges%%%%%
+\textit{Ranges}
+\begin{gather*}
+    0\le\theta\le2\pi \nonumber\\
+    0\le\pi\theta\le2\pi^{2} \onemark \\
+    0\le e\theta\le2e\pi \nonumber\\
+    \implies\frac{\pi}{3}\le e\theta+\frac{\pi}{3}\le2e\pi+\frac{\pi}{3} \onemark \\
+\end{gather*}
+
+%%%%%Separating the equation%%%%%
+\textit{Splitting the equation}
+\begin{gather*}
+    \displaystyle\left(\sqrt{3}\tan{(\pi\theta)}+2\right)^{\displaystyle\frac{1}{\sqrt{3}}\sin{(e\theta)}+\cos{(e\theta)}-1} = 1\\
+    \displaystyle\ln\left(\sqrt{3}\tan{(\pi\theta)}+2\right)^{\displaystyle\frac{1}{\sqrt{3}}\sin{(e\theta)}+\cos{(e\theta)}-1} = \ln 1 \onemark \\
+    \displaystyle\left(\frac{1}{\sqrt{3}}\sin{(e\theta)}+\cos{(e\theta)}-1\right)\ln\left(\sqrt{3}\tan{(\pi \theta)}+2\right) = 0\\
+    \therefore
+    \displaystyle\frac{1}{\sqrt{3}}\sin{(e\theta)}+\cos{(e\theta)}-1=0 %%sub-equation 1
+    \; or \;
+    \sqrt{3}\tan{(\pi \theta)}+2 = 1 \onemark \\ %%sub-equation 2
+\end{gather*}
+
+%%%%%Solving the second equation%%%%%
+\textit{Solving the Second sub-equation}
+\begin{align*} %%Equation Manipulation
+    \displaystyle\sqrt{3}\tan{(\pi\theta)}+2 &= 1\\
+    \displaystyle\tan{(\pi\theta)} &= -\frac{1}{\sqrt{3}} \onemark \\
+    \displaystyle ref. \angle &= \tan^{-1}{\left(\frac{1}{\sqrt{3}}\right)}\\
+    \displaystyle             &= \frac{\pi}{6} \, rad \onemark
+\end{align*}
+\begin{gather*} %%Finding values of \theta
+    \displaystyle\tan{(\pi\theta)}<0\implies\pi\theta \; is \; in \; quad \; 2 \; or \; 4,\\
+    \displaystyle\implies\pi\theta = \frac{5\pi}{6} , \frac{11\pi}{6} , \frac{17\pi}{6} , \frac{23\pi}{6} , \frac{29\pi}{6} , \frac{35\pi}{6}\\
+    \displaystyle \therefore\theta = \frac{5}{6} , \frac{11}{6} , \frac{17}{6} , \frac{23}{6} , \frac{29}{6} , \frac{35}{6} \; rad \twomark
+\end{gather*}
+
+\newpage
+
+%%%%%Solving the first equation%%%%%
+\textit{Solving the First sub-equation}
+\begin{gather*} %% Using R-Formula
+    \displaystyle\frac{1}{\sqrt{3}}\sin{(e\theta)}+\cos{(e\theta)}-1=0\\
+    Let\;\displaystyle R\sin{(e\theta+\alpha)}=\frac{1}{\sqrt{3}}\sin{(e\theta)}+\cos{(e\theta)} \onemark
+\end{gather*}
+\begin{align*}
+    \displaystyle R\sin{(\alpha)} &= 1\\
+    \displaystyle R\cos{(\alpha)} &= \frac{1}{\sqrt{3}}
+\end{align*}
+\begin{align*} %% Value of R
+    \displaystyle R &= \sqrt{\left(\frac{1}{\sqrt{3}}\right)^{2}+1}\\
+    \displaystyle   &= \sqrt{\frac{4}{3}}\\
+    \displaystyle   &= \frac{2}{\sqrt{3}} \onemark
+\end{align*}
+\begin{align*} %% Value of \alpha
+    \displaystyle \tan{(\alpha)} &= \frac{1}{\frac{1}{\sqrt{3}}}\\
+    \displaystyle                &= \sqrt{3}\\
+    \displaystyle         \alpha &= \tan^{-1}{\sqrt{3}}\\
+    \displaystyle                &= \frac{\pi}{3} \; rad \onemark
+\end{align*}
+\begin{equation*} %% R-formula equation
+    \therefore \displaystyle\frac{1}{\sqrt{3}}\sin{e\theta}+\cos{e\theta} = \frac{2}{\sqrt{3}}\sin{\left(e\theta + \frac{\pi}{3}\right)}\\
+\end{equation*}
+\begin{align*} %% Rewriting the equation
+    \implies \frac{2}{\sqrt{3}}\sin{\left(e\theta + \frac{\pi}{3}\right)} &= 1\\
+                               \sin{\left(e\theta + \frac{\pi}{3}\right)} &= \frac{\sqrt{3}}{2} \onemark \\
+    ref. \angle &= \sin^{-1}{\frac{\sqrt{3}}{2}}\\
+                &= \frac{\pi}{3} \; rad \onemark \\
+\end{align*}
+\begin{gather*} %% Finding Values of \theta
+    \displaystyle \sin{(e\theta + \frac{\pi}{3})}>0\implies\left(e\theta + \frac{\pi}{3}\right) \; is \; in \; quad \; 1 \; or \; 2\\
+    \displaystyle e\theta + \frac{\pi}{3} = \frac{\pi}{3} , \frac{2\pi}{3} , \frac{7\pi}{3} , \frac{8\pi}{3} , \frac{13\pi}{3} , \frac{14\pi}{3} , \frac{\pi}{3}\\
+    \displaystyle \implies\theta = 0 , \frac{\pi}{3e} , \frac{2\pi}{e} , \frac{7\pi}{3e} , \frac{4\pi}{e} , \frac{13\pi}{3e} , \frac{\pi}{3} \; rad \twomark \\
+\end{gather*}
+
+%%%%%All the values of \theta%%%%%
+\textit{
+    Values of \(\theta\) that satisfies the equation are \(\displaystyle
+    0 , \frac{5}{6} , \frac{11}{6} , \frac{17}{6} , \frac{23}{6} , \frac{29}{6} , \frac{35}{6} ,
+    \frac{\pi}{3e} , \frac{2\pi}{e} , \frac{7\pi}{3e} , \frac{4\pi}{e} , \frac{13\pi}{3e}\) rad
+}
+
+%\end{comment}

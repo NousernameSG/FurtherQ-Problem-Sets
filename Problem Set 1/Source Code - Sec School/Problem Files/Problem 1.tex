@@ -1,0 +1,59 @@
+\textbf{\hypertarget{P1}{[\,Suggested Time: 7 mins \textbar \, Total Marks: 7 \textbar \, Easy\,]}}\\
+    \textit{
+        A function f is defined by \(\displaystyle f(x) = \sqrt{2}\left(\sin{x} + \cos{x} + 1\right)\) for \(0\le x\le 2\pi\)\\
+        Points P and Q are the maximum and minimum points of f respectively,\\
+        Without the use of calculus, find the coordinates P and Q \\
+        \textbf{Leave your answers in exact values.}} \qnmark{7}
+
+%%%%%%%%%%%%%%%%%%
+%%%%%Solution%%%%%
+%%%%%%%%%%%%%%%%%%
+
+%\begin{comment}
+
+%%%%%Combining sin x and cos x with R-Formula%%%%%
+\begin{gather*}
+    \displaystyle Let \; y = \sqrt{2}\sin{x} + \sqrt{2}\cos{x} + \sqrt{2} \\
+    \displaystyle Let \; R\sin{(x + \alpha)} = \sqrt{2}\sin{x} + \sqrt{2}\cos{x} \onemark
+\end{gather*}
+\begin{align*}
+    \displaystyle R\sin{\alpha} &= \sqrt{2} \\
+    \displaystyle R\cos{\alpha} &= \sqrt{2}
+\end{align*}
+\begin{align*} %% Value of R
+    \displaystyle R &= \sqrt{2+2} \\
+                    &= 2 \onemark
+\end{align*}
+\begin{align*} %% Value of \alpha
+    \displaystyle \alpha &= \tan^{-1}{(1)} \\
+                         &= \frac{\pi}{4} \onemark
+\end{align*}
+
+%%%%%Rewriting the equation and finding P & Q%%%%%
+\begin{gather*} %% Rewriting expression
+    \displaystyle \implies\sqrt{2}\sin{x} + \sqrt{2}\cos{x} = 2\sin{\left(x + \frac{\pi}{4}\right)}\\
+    \displaystyle \therefore y = 2\sin{\left(x + \frac{\pi}{4}\right)} + \sqrt{2}
+\end{gather*}
+\begin{multicols}{2}
+    \begin{align*} %% Coordinate of P
+        max(y) = 2 + \sqrt{2} \onemark \\
+        when \; \sin{\left(x + \frac{\pi}{4}\right)} &= 1 \\
+        \therefore x + \frac{\pi}{4} &= \frac{\pi}{2}\\
+        x &= \frac{\pi}{4}
+    \end{align*}
+    \begin{equation*}
+        \implies P = \left(\frac{\pi}{4} , 2 + \sqrt{2}\right) \ansmark
+    \end{equation*}
+
+    \begin{align*} %% Coordinate of Q
+        min(y) = \sqrt{2} - 2 \onemark \\
+        when \; \sin{\left(x + \frac{\pi}{4}\right)} &= -1\\
+        \therefore x + \frac{\pi}{4} &= \frac{3\pi}{2}\\
+        x &= \frac{5\pi}{4}
+    \end{align*}
+    \begin{equation*}
+        \implies Q = \left(\frac{5\pi}{4} , \sqrt{2} - 2\right) \ansmark
+    \end{equation*}
+\end{multicols}
+
+%\end{comment}

@@ -1,0 +1,45 @@
+\documentclass[12pt]{article}
+\usepackage[margin=0.75in]{geometry}
+\usepackage{multicol}
+\usepackage[fleqn]{amsmath}
+\usepackage{mathtools}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{tcolorbox}
+\usepackage{xcolor}
+\usepackage{amssymb}
+\usepackage{amsthm}
+\usepackage{lastpage}
+\usepackage{fancyhdr}
+\usepackage{setspace}
+\usepackage{hyperref}
+\mathindent=0.0pt
+\onehalfspacing
+\AtBeginDocument{
+  \addtolength\abovedisplayskip{-0.5\baselineskip}
+  \addtolength\belowdisplayskip{-0.5\baselineskip}
+}
+\pagestyle{fancy}
+\setlength{\headheight}{15pt}
+\setlength{\columnsep}{2cm}
+\graphicspath{{./Images/}}
+
+%%%%%Setting tag color for mark tags&&&&&
+\newtagform{red}{\color{red}[}{]}
+\usetagform{red}
+\newcommand{\ansgiven}{\tag{A.G.}}
+\newcommand{\ansmark}{\tag{A1}}
+\newcommand{\onemark}{\tag{M1}}
+\newcommand{\twomark}{\tag{M2}}
+\newcommand{\qnmark}[1]{\hfill \text[#1]}
+
+%%%%%Black square QED symbol%%%%%
+\renewcommand{\qedsymbol}{\ensuremath{\blacksquare}}
+
+%%%%%Hyperref Setup%%%%%
+\hypersetup{
+  colorlinks=true,
+  linkcolor=blue,
+  filecolor=magenta,
+  urlcolor=cyan,
+}
