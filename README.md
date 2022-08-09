@@ -148,7 +148,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [downloads-shield]: https://img.shields.io/github/downloads/NousernameSG/FurtherQ-Problem-Sets/total
 [downloads-url]: https://github.com/NousernameSG/FurtherQ-Problem-Sets/releases
 [license-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
-[license-url]: https://github.com/NousernameSG/FurtherQ-Problem-Sets/LICENSE/
+[license-url]: https://github.com/NousernameSG/FurtherQ-Problem-Sets/blob/master/LICENSE
 [license-webpage]: http://creativecommons.org/licenses/by/4.0/
 [license-mark]: https://i.creativecommons.org/l/by/4.0/88x31.png
 [LaTeX-Shield]: https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white
