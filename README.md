@@ -34,8 +34,6 @@
   <h3 align="center">FurtherQ Problem Sets</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
-    <br />
     <a href="https://github.com/NousernameSG/FurtherQ-Problem-Sets/issues">Report Bug</a>
     ·
     <a href="https://github.com/NousernameSG/FurtherQ-Problem-Sets/issues">Request Feature</a>
