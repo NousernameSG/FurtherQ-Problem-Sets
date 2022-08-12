@@ -64,7 +64,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-There are many great, and probably more interesting papers out in the wild, but most of them are catered to the exam standard, so many great questions are thrown in the dumpster in the process. This paper is meant to be based on the <a href=https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2022syllabus/4049_y22_sy.pdf> Cambridge-MOE Singapore O Levels Additional Mathematics Syllabus </a> but the style of questions in this paper will defer from the norm.
+There are many great, and probably more interesting papers out in the wild, but most of them are catered to the exam standard, so many great questions are thrown in the dumpster in the process. This paper is meant to be based on the <a href=https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2022syllabus/4049_y22_sy.pdf> Cambridge-Singapore O Levels Additional Mathematics Syllabus </a> but the style of questions in this paper will defer from the norm.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
