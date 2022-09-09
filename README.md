@@ -1,22 +1,6 @@
 <a name="readme-top"></a>
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
--->
-
-
 
 <!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -52,7 +36,11 @@
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
-    <li><a href="#General Disclaimer">General Disclaimer</a></li>
+    <li><a href="#General Disclaimer">General Disclaimer</a>
+      <ul>
+        <li><a href="#Additional Assumed Knowledge for PB Edition">Additional Assumed Knowledge for PB Edition</a></li>
+      </ul>
+    </li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -65,7 +53,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-There are many great, and probably more interesting papers out in the wild, but most of them are catered to the exam standard, so many great questions are thrown in the dumpster in the process. This paper is meant to be based on the <a href=https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2022syllabus/4049_y22_sy.pdf> Cambridge-Singapore O Levels Additional Mathematics Syllabus </a> but the style of questions in this paper will defer from the norm.
+There are several intriguing papers publicly available. However, because these exam papers are set in such a way to prepare students for their eventual undertaking of O Levels, some great questions are thrown out due to certain restrictions or protocols for preparing the examination's questions. This Problem Set is based on the <a href=https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2022syllabus/4049_y22_sy.pdf> Cambridge-Singapore O Levels Additional Mathematics Syllabus</a>, but the style of questions in this paper may differ from the normal.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -82,13 +70,25 @@ There are many great, and probably more interesting papers out in the wild, but 
 <!-- GENERAL DISCLAIMER -->
 ## General Disclaimer
 
-In order to create a unique, out of the normal paper, there is an undeniable need to search out the box which restricts the types of questions or the style of questions in general examinations. As such, the way which some of the questions are presented in the paper may be different compared to those which you may be familiar with in School/Cambridge Papers.
+In order to create a unique paper, there is an undeniable need to search out the box which restricts the types of questions or the style of questions in general examinations. As such, the way some of the questions are put forth in the paper may be different compared to those that you may be familiar with in School/Cambridge Papers.
 
-Such types of questions have a very low chance, if not any, of coming out for the actual O-Level paper, and it is highly discouraged to use this paper as a gauge for your performance for your examinations or as your sole revision material.
+Some of the questions shown have little, if not any, chance of coming out for the actual O-Level paper, and it is highly discouraged to use this paper as a gauge for your performance for your examinations or as your sole revision material.
 
-This meant to complement your revision and not fully replace it, and for you to hopefully stretch your mind and mathematical abilities with the non-standard questions presented in this work.
+The Problem Set(s) is not a tool to completely replace your revision materials but to complement them. Concurrently, helping you to stretch your mind and mathematical abilities with the non-standard questions presented in this work.
 
-By proceeding, you acknowledge this disclaimer, with the addition of the license that comes with this work.
+The Secondary School (SS) Edition of the paper is recommended for students, as the Public (PB) Edition requires additional knowledge that is not under the A/E Math Syllabus. However, feel free to take on the PB Version if you're familiar with the extra assumed knowledge stated.
+
+By proceeding, you acknowledge the disclaimer with the addition of the license that comes with this work.
+
+
+
+### Additional Assumed Knowledge for PB Edition
+
+* Mathematics
+  * Different Function Notation
+  * Basic Understanding of Summation
+* Physics
+  * Basic Circuit Theory (O-Level Physics)
 
 
 
@@ -126,8 +126,7 @@ See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-NousernameSG - nousernamesg@gmail.com
-
+Email: nousernamesg@gmail.com
 Project Link: [https://github.com/NousernameSG/FurtherQ-Problem-Sets](https://github.com/NousernameSG/FurtherQ-Problem-Sets/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -137,7 +136,6 @@ Project Link: [https://github.com/NousernameSG/FurtherQ-Problem-Sets](https://gi
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
 
 * [Choose an Open Source License](https://choosealicense.com)
 * [Image Shields List](https://github.com/Ileriayo/markdown-badges)
