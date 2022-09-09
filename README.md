@@ -52,6 +52,7 @@
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
+    <li><a href="#General Disclaimer">General Disclaimer</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -76,6 +77,18 @@ There are many great, and probably more interesting papers out in the wild, but 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
+
+<!-- GENERAL DISCLAIMER -->
+## General Disclaimer
+
+In order to create a unique, out of the normal paper, there is an undeniable need to search out the box which restricts the types of questions or the style of questions in general examinations. As such, the way which some of the questions are presented in the paper may be different compared to those which you may be familiar with in School/Cambridge Papers.
+
+Such types of questions have a very low chance, if not any, of coming out for the actual O-Level paper, and it is highly discouraged to use this paper as a gauge for your performance for your examinations or as your sole revision material.
+
+This meant to complement your revision and not fully replace it, and for you to hopefully stretch your mind and mathematical abilities with the non-standard questions presented in this work.
+
+By proceeding, you acknowledge this disclaimer, with the addition of the license that comes with this work.
 
 
 
