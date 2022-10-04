@@ -76,7 +76,7 @@ Some of the questions shown have little, if not any, chance of coming out for th
 
 The Problem Set(s) is not a tool to completely replace your revision materials but to complement them. Concurrently, helping you to stretch your mind and mathematical abilities with the non-standard questions presented in this work.
 
-The Secondary School (SS) Edition of the paper is recommended for students, as the Public (PB) Edition requires additional knowledge that is not under the A/E Math Syllabus. However, feel free to take on the PB Version if you're familiar with the extra assumed knowledge stated.
+The Secondary School (SS) Edition of the paper is recommended for students, as the Public (PB) Edition may require additional knowledge that is not covered under the A/E Math Syllabus. However, feel free to take on the PB Version if you're familiar with the extra assumed knowledge stated.
 
 By proceeding, you acknowledge the disclaimer with the addition of the license that comes with this work.
 
