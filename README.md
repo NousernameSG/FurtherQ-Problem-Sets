@@ -84,11 +84,12 @@ By proceeding, you acknowledge the disclaimer with the addition of the license t
 
 ### Additional Assumed Knowledge for PB Edition
 
-* Mathematics
-  * Different Function Notation
-  * Basic Understanding of Summation
-* Physics
-  * Basic Circuit Theory (O-Level Physics)
+* Problem Set 1
+  * Mathematics
+    * Different Function Notation
+    * Basic Understanding of Summation
+  * Physics
+    * Basic Circuit Theory (O-Level Physics)
 
 
 
