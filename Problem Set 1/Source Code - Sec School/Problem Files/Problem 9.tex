@@ -1,8 +1,8 @@
 \textbf{\hypertarget{P9}{[\,Suggested Time: 25 mins \textbar \, Total Marks: 12 \textbar \, Challenging\,]}}\\
-\textit{A soft drink company wants to design a 500ml soda can using the least amount of \\
-        material for their new Moon Shine soda. Assume that the soda can is a perfect \\
-        cylinder. Using the information given below, find the cheapest material cost to \\
-        produce 1000 cans. \textbf{Leave your answers in USD}}  \qnmark{12} \\
+    A soft drink company wants to design a 500ml soda can using the least amount of \\
+    material for their new Moon Shine soda. Assume that the soda can is a perfect \\
+    cylinder. Using the information given below, find the cheapest material cost to \\
+    produce 1000 cans. \textbf{Leave your answers in USD}  \qnmark{12} \\
 
 %%%%%Information List%%%%%
 \begin{center}
@@ -41,10 +41,12 @@
         \hline
     \end{tabularx}
 \end{center}
+
 \vspace*{25pt}
-\textit{The Soda can is able to tolerate up to 5 atm of pressure, and has a uniform thickness \\
-        of \(0.01\;cm\). The soda releases up to \(\displaystyle \frac{x}{10}\;cm^{3}\) of gas for every \(x\;ml\) of soda under room \\
-        temperature and pressure.}
+
+    The Soda can is able to tolerate up to 5 atm of pressure, and has a uniform thickness \\
+    of \(0.01\;cm\). The soda releases up to \(\displaystyle \frac{x}{10}\;cm^{3}\) of gas for every \(x\;ml\) of soda under room \\
+    temperature and pressure.
 
 \newpage
 
@@ -57,78 +59,81 @@
 %\begin{comment}
 
 %%%%%Formula for Surface area and Volume of Can%%%%%
-\textit{Let \(S_{c}\;\&\;V_{c}\) be the total surface area and volume of the can respectively}
+Let \(S_{c}\;\&\;V_{c}\) be the total surface area and volume of the can respectively
+
 \begin{align*}
     \displaystyle S_{c} &= 2 \pi rh+2\pi r^{2} \\
     \displaystyle V_{c} &= \pi r^{2}h
 \end{align*}
 
 %%%%%Finding the Volume of gas in the can at 5Pa (Max Pressure)%%%%%
-\textit{Room temperature and pressure \(\implies P = 1\;atm,\;T_{c} = 28^{\circ}c\) \\\\
-        Thus, using the Ideal gas law, the number of moles of gas is}
+    Room temperature and pressure \(\implies P = 1\;atm,\;T_{c} = 28^{\circ}c\) \\\\
+    Thus, using the Ideal gas law, the number of moles of gas is
 \begin{align*}
     \displaystyle n &= \frac{PV}{RT} \\
     \displaystyle   &= \frac{101325\left(\displaystyle \frac{50}{100^{3}}\right)}{8.314(273+28)} \\
-    \displaystyle   &= 2.0245 \times 10^{-3} \onemark \\
+    \displaystyle   &= 2.0245 \times 10^{-3} \wrkonemark \\
 \end{align*}
-\textit{Since the max pressure that the can is able to handle is 5 atm, \\
-        min volume taken up by gas is}
+
+    Since the max pressure that the can is able to handle is 5 atm, \\
+    min volume taken up by gas is,
 \begin{align*}
     \displaystyle V &= \frac{nRT}{P} \\
     \displaystyle   &= \frac{2.0245 \times 10^{-3}(8.314\times(273+28))}{5(101325)} \\
     \displaystyle   &= 1\times 10^{-5}\;m^{3} \\
-    \displaystyle   &= 10\;cm^{3} \onemark \\
+    \displaystyle   &= 10\;cm^{3} \wrkonemark \\
 \end{align*}
 \textit{Thus, $V_{c} = 500 + 10 = 510 cm^{3}$}
 \begin{align*}
     \displaystyle 510 &= \pi r^{2}h \\
-    \displaystyle   h &= \frac{510}{\pi r^{2}} \onemark
+    \displaystyle   h &= \frac{510}{\pi r^{2}} \wrkonemark
 \end{align*}
 
 %%%%%Finding the radius that gives the min. suf. area%%%%%
 \begin{align*}
     \displaystyle  \therefore S_{c} &= 2\pi r\left(\frac{510}{\pi r^{2}}\right) + 2\pi r^{2} \\
     \displaystyle                   &= \frac{1020}{r} + 2\pi r^{2} \\
-    \displaystyle \frac{dS_{c}}{dr} &= 4\pi r - \frac{1020}{r^{2}} \onemark
+    \displaystyle \frac{dS_{c}}{dr} &= 4\pi r - \frac{1020}{r^{2}} \wrkonemark
 \end{align*}
 
 \newpage
-\textit{When $\displaystyle \frac{dS_{c}}{dr} = 0$}
+
+When \(\displaystyle \frac{dS_{c}}{dr} = 0\)
 \begin{align*}
-    \displaystyle    4\pi r - \frac{1020}{r^{2}} &= 0 \onemark \\
+    \displaystyle    4\pi r - \frac{1020}{r^{2}} &= 0 \wrkonemark \\
     \displaystyle \frac{4\pi r^{3} -1020}{r^{3}} &= 0 \\
     \displaystyle               4\pi r^{3} -1020 &= 0 \\
     \displaystyle \therefore               r^{3} &= \frac{1020}{4\pi} \\
-    \displaystyle                              r &= \sqrt[3]{\frac{255}{\pi}} \approx 4.3298\;cm \onemark
+    \displaystyle                              r &= \sqrt[3]{\frac{255}{\pi}} \approx 4.3298\;cm \wrkonemark
 \end{align*}
 \begin{align*} %%2nd Derivative Test
     \displaystyle                                                         \frac{d^{2}S_{c}}{dr^{2}} &= 4\pi + \frac{2040}{r^{3}} \\
     \displaystyle \left.\frac{d^{2}S_{c}}{dr^{2}}\right|_{\textstyle r = \sqrt[3]{\frac{300}{\pi}}} &= 4\pi + \frac{2040\pi}{255} \\
-    \displaystyle                                                                                   &> 0 \onemark
+    \displaystyle                                                                                   &> 0 \wrkonemark
 \end{align*}
-\textit{\(\therefore \displaystyle r = \sqrt[3]{\frac{255}{\pi}}\) gives a min. amount of aluminium used}
+\(\therefore \displaystyle r = \sqrt[3]{\frac{255}{\pi}}\) gives a min. amount of aluminium used
 
 %%%%%Mass of aluminium required to make 1000 cans%%%%%
 \begin{align*}
     \displaystyle V_{alu} &= \pi \left(0.01+\sqrt[3]{\frac{255}{\pi}}\right)^{2}\left(\frac{510}{\pi \left(\textstyle \sqrt[3]{\frac{255}{\pi}}\right)^{2}} + 0.02\right) - 510 \\
-    \displaystyle         &\approx 3.5419\;cm^{2} \onemark \\\\
+    \displaystyle         &\approx 3.5419\;cm^{2} \wrkonemark \\\\
 \end{align*}
 \begin{align*}
-    Mass\;of\;1\;Can   &= 3.5419(2.7) \\
-                       &= 9.56313g \onemark \\
-    Mass\;of\;1k\;Can  &= 9.56313(1000) \\
-                       &= 9563.13g \\
-                       &\approx 9.5631kg \onemark
+    \text{Mass of 1 Can} &= 3.5419(2.7) \\
+                         &= 9.56313g \wrkonemark \\
+    \text{Mass of 1k Cans}  &= 9.56313(1000) \\
+                            &= 9563.13g \\
+                            &\approx 9.5631kg \wrkonemark
 \end{align*}
 
 %%%%%Least material cost to produce 1000 cans%%%%%
 \begin{align*}
-    \displaystyle Price\;of\;Aluminium\;in\;kg &= \frac{2515}{1000} \\
-    \displaystyle                              &= 2.515\;USD/kg \onemark
+    \displaystyle \text{Price of Aluminium in kg} &= \frac{2515}{1000} \\
+                                                  &= 2.515 \; USD/kg \wrkonemark
 \end{align*}
 \begin{align*}
-    \displaystyle \therefore Material\;Cost\;to\;produce\;1000\;Cans &= 9.5631(2.515) \\
-    \displaystyle                                                    &\approx 24.05\;USD \ansmark
+    \therefore \text{Material Cost to produce 1000 Cans} &= 9.5631(2.515) \\
+                                                         &\approx 24.05 \; USD \ansonemark
 \end{align*}
 %\end{comment}
 
