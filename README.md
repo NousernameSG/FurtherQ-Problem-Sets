@@ -73,13 +73,13 @@ There are several intriguing papers publicly available. However, because these e
 <!-- GENERAL DISCLAIMER -->
 ## General Disclaimer
 
-In order to create a unique paper, there is an undeniable need to search out the box which restricts the types of questions or the style of questions in general examinations. As such, the way some of the questions are put forth in the paper may be different compared to those that you may be familiar with in School/Cambridge Papers.
+The problem sets created here contain questions which are not what one may be used to seeing in School/Cambridge Papers as it seeks to explore different types and styles of questions that may have been left out due to certain question restrictions or just generally interesting questions.
 
 Some of the questions shown have little, if not any, chance of coming out for the actual O-Level paper, and it is highly discouraged to use this paper as a gauge for your performance for your examinations or as your sole revision material.
 
 The Problem Set(s) is not a tool to completely replace your revision materials but to complement them. Concurrently, helping you to stretch your mind and mathematical abilities with the non-standard questions presented in this work.
 
-The Secondary School (SS) Edition of the paper is recommended for students, as the Public (PB) Edition may require additional knowledge that is not covered under the A/E Math Syllabus. However, feel free to take on the PB Version if you're familiar with the extra assumed knowledge stated.
+The Secondary School (SS) Edition of the paper is recommended for students, as the Public (PB) Edition may require additional knowledge that is not covered under the A/E Math Syllabus. However, if you are familiar with the stated Assumed Knowledge, you can choose to work on the PB Edition instead.
 
 By proceeding, you acknowledge the disclaimer in addition to the license applied to this work.
 
@@ -151,7 +151,7 @@ See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Email: nousernamesg@gmail.com
+Email: nousernamesg@gmail.com <br>
 Project Link: [https://github.com/NousernameSG/FurtherQ-Problem-Sets](https://github.com/NousernameSG/FurtherQ-Problem-Sets/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
