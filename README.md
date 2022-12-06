@@ -108,11 +108,13 @@ By proceeding, you acknowledge the disclaimer in addition to the license applied
 ## Downloads
 
 <details>
-  <summary><a href=https://github.com/NousernameSG/FurtherQ-Problem-Sets/files/10162908/FurtherQ.-.Problem.Set.1.4-10-22.zip> Problem Set 1</a></summary>
+  <summary>Problem Set 1</summary>
     Date of Release: 4 October 2022 <br>
     Release Version: 2.0 <br>
     File Size: 1.7MB <br>
+    <a href= https://github.com/NousernameSG/FurtherQ-Problem-Sets/files/10162908/FurtherQ.-.Problem.Set.1.4-10-22.zip><kbd> Download </kbd></a>
 </details>
+
 
 
 <!-- CONTRIBUTING -->
@@ -185,3 +187,4 @@ Project Link: [https://github.com/NousernameSG/FurtherQ-Problem-Sets](https://gi
 [license-mark]: https://i.creativecommons.org/l/by/4.0/88x31.png
 [LaTeX-Shield]: https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white
 [LaTeX-url]: https://www.latex-project.org/
+[PS1-Download_Link]: https://github.com/NousernameSG/FurtherQ-Problem-Sets/files/10162908/FurtherQ.-.Problem.Set.1.4-10-22.zip/
