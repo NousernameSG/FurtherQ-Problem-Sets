@@ -41,6 +41,7 @@
         <li><a href="#Additional Assumed Knowledge for PB Edition">Additional Assumed Knowledge for PB Edition</a></li>
       </ul>
     </li>
+    <li><a href="#Latest Downloads">Downloads</li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -97,6 +98,18 @@ By proceeding, you acknowledge the disclaimer in addition to the license applied
       <li> Basic Circuit Theory (O-Level Physics)</li>
     </ul>
   </ol>
+</details>
+
+
+
+<!-- LATEST DOWNLOADS -->
+## Downloads
+
+<details>
+  <summary><a href=https://github.com/NousernameSG/FurtherQ-Problem-Sets/files/10162908/FurtherQ.-.Problem.Set.1.4-10-22.zip> Problem Set 1</a></summary>
+    Date of Release: 4 October 2022 <br>
+    Release Version: 2.0 <br>
+    File Size: 1.7MB <br>
 </details>
 
 
