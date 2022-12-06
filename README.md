@@ -53,7 +53,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-There are several intriguing papers publicly available. However, because these exam papers are set in such a way to prepare students for their eventual undertaking of O Levels, some great questions are thrown out due to certain restrictions or protocols for preparing the examination's questions. This Problem Set is based on the <a href=https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2022syllabus/4049_y22_sy.pdf> Cambridge-Singapore O Levels Additional Mathematics Syllabus</a>, but the style of questions in this paper may differ from the normal.
+There are several intriguing papers publicly available. However, because these exam papers are set in such a way to prepare students for their eventual undertaking of O Levels, some great questions are thrown out due to certain restrictions or protocols for preparing the examination's questions. This Problem Set is based on the Cambridge-Singapore O Levels <a href=https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2022syllabus/4049_y22_sy.pdf>Additional Mathematics (4049)</a> & <a href=https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2023syllabus/4052_y23_sy.pdf>Elementary Mathematics (4052)</a> Syllabuses, but the style of questions in this paper may differ from the normal.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -78,7 +78,7 @@ The Problem Set(s) is not a tool to completely replace your revision materials b
 
 The Secondary School (SS) Edition of the paper is recommended for students, as the Public (PB) Edition may require additional knowledge that is not covered under the A/E Math Syllabus. However, feel free to take on the PB Version if you're familiar with the extra assumed knowledge stated.
 
-By proceeding, you acknowledge the disclaimer with the addition of the license that comes with this work.
+By proceeding, you acknowledge the disclaimer in addition to the license applied to this work.
 
 
 
@@ -109,9 +109,9 @@ If you have a suggestion that would make this better, please fork the repo and c
 Don't forget to give the project a star! Thanks again!
 
 1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
+2. Create your Feature Branch (`git checkout -b feature/ProposedIdea`)
+3. Commit your Changes (`git commit -m 'Add some ProposedIdea'`)
+4. Push to the Branch (`git push origin feature/ProposedIdea`)
 5. Open a Pull Request
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
