@@ -21,6 +21,8 @@
     <a href="https://github.com/NousernameSG/FurtherQ-Problem-Sets/issues">Report Bug</a>
     ·
     <a href="https://github.com/NousernameSG/FurtherQ-Problem-Sets/issues">Request Feature</a>
+    ·
+    <a href="https://www.buymeacoffee.com/nousernamesg">Support My Work</a>
   </p>
 </div>
 
