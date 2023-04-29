@@ -56,7 +56,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This repository is a collection of intereting math problems that I had found or thought of, and would like to share it with the rest of the world.
+This repository is a collection of interesting math problems that I had found or thought of, and would like to share it with the rest of the world.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
