@@ -56,7 +56,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-There are several intriguing papers publicly available. However, because these exam papers are set in such a way to prepare students for their eventual undertaking of O Levels, some great questions are thrown out due to certain restrictions or protocols for preparing the examination's questions. This Problem Set is based on the Cambridge-Singapore O Levels <a href=https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2022syllabus/4049_y22_sy.pdf>Additional Mathematics (4049)</a> & <a href=https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2023syllabus/4052_y23_sy.pdf>Elementary Mathematics (4052)</a> Syllabuses, but the style of questions in this paper may differ from the normal.
+This repository is a collection of intereting math problems that I had found or thought of, and would like to share it with the rest of the world.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -72,14 +72,9 @@ There are several intriguing papers publicly available. However, because these e
 
 <!-- GENERAL DISCLAIMER -->
 ## General Disclaimer
+The The Problem Set(s) is not a tool to completely replace your revision materials as the types of questions in these papers are not strictly catered to usual exam questions.
 
-The problem sets created here contain questions which are not what one may be used to seeing in School/Cambridge Papers as it seeks to explore different types and styles of questions that may have been left out due to certain question restrictions or just generally interesting questions.
-
-Some of the questions shown have little, if not any, chance of coming out for the actual O-Level paper, and it is highly discouraged to use this paper as a gauge for your performance for your examinations or as your sole revision material.
-
-The Problem Set(s) is not a tool to completely replace your revision materials but to complement them. Concurrently, helping you to stretch your mind and mathematical abilities with the non-standard questions presented in this work.
-
-The Secondary School (SS) Edition of the paper is recommended for students, as the Public (PB) Edition may require additional knowledge that is not covered under the A/E Math Syllabus. However, if you are familiar with the stated Assumed Knowledge, you can choose to work on the PB Edition instead.
+The Secondary School (SS) Edition of the paper is recommended for secondary school students, as the Public (PB) Edition may require additional knowledge that is not covered under the A/E Math Syllabus. However, if you are familiar with the stated Assumed Knowledge, you can choose to work on the PB Edition instead.
 
 By proceeding, you acknowledge the disclaimer in addition to the license applied to this work.
 
